@@ -12,10 +12,10 @@
 
 # Routes
 
--[x] http://localhost:3000/ Route to login
+* http://localhost:3000/ Route to login
 
--[x] http://localhost:3000/signup Route to signup
+* http://localhost:3000/signup Route to signup
 
--[x] http://localhost:3000/dashboard Dashboard when the user is connecting
+* http://localhost:3000/dashboard Dashboard when the user is connecting
 
 
